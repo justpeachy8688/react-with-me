@@ -1,12 +1,12 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
-
+import image1 from '../img/profilepic.jpg';
 
 function Navbar() {
     return (
         <div className="NavBar">
             <div className="profile">
-                <img src="src/img/profilepic.jpg" alt="profile pic" />
+                <img src={image1} width="150" height="150" />
             </div>
             <nav className="nav">
                 <ul className="nav-items">
