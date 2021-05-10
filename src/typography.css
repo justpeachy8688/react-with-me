@@ -1,0 +1,22 @@
+.hero-text {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 3.6rem;
+}
+
+.hero-text span {
+    color: rgb(221, 248, 68);
+}
+
+.HomePage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    color: inherit;
+}
+
+p {
+    color: whitesmoke;
+}

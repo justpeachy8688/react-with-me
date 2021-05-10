@@ -6,10 +6,10 @@ import "./Navbar.css"
 function Navbar() {
     return (
         <div className="NavBar">
-            <div className="profile">
-                <img src={image1} />
-            </div>
             <nav className="nav">
+                <div className="profile">
+                    <img src={image1} />
+                </div>
                 <ul className="nav-items">
                     <li className="nav-item">
                         <NavLink to="/" exact activeClassName="active">
@@ -19,6 +19,11 @@ function Navbar() {
                     <li className="nav-item">
                         <NavLink to="/about" exact activeClassName="active">
                             About
+                        </NavLink>
+                    </li>
+                    <li className="nav-item">
+                        <NavLink to="/resume" exact activeClassName="active">
+                            Resume
                         </NavLink>
                     </li>
                     <li className="nav-item">
