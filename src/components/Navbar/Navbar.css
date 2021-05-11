@@ -6,6 +6,11 @@
 }
 
 img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.nav-img {
     width: 90%;
     /* padding-bottom: 30px; */
     border-radius: 100%;
@@ -14,7 +19,7 @@ img {
 }
 
 .footer {
-    color: aliceblue;
+    color: #c2c5d1;
     background-color: #191d2b;
     font-family: 'M PLUS Rounded 1c', sans-serif;
 }
@@ -38,12 +43,12 @@ img {
 .nav-item a {
     text-decoration: none;
     font-size: inherit;
-    color: whitesmoke;
+    color: #c2c5d1;
     display: block;
     padding: .5rem 0;
     position: relative;
 }
 
 .active {
-    background-color: #3e31f0;
+    background-color: #037FFF;
 }

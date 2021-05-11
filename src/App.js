@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 import Home from "./pages/Home";
-import "./App.css";
-import "./layout.css";
-import "./typography.css"
+import "./styles/App.css";
+import "./styles/layout.css";
+import "./styles/typography.css";
 import NavBar from "./components/Navbar/Navbar";
-import Footer from "./components/Footer/Footer";
+// import Footer from "./components/Footer/Footer";
 import About from "./pages/About";
 import { Switch, Route } from 'react-router-dom'
 import Portfolio from "./pages/Portfolio";

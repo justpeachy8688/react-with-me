@@ -8,7 +8,7 @@ function Navbar() {
         <div className="NavBar">
             <nav className="nav">
                 <div className="profile">
-                    <img src={image1} />
+                    <img className="nav-img" src={image1} />
                 </div>
                 <ul className="nav-items">
                     <li className="nav-item">

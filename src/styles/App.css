@@ -1,9 +1,14 @@
-@import '../src/components/Navbar/Navbar.css';
+@import '../components/Navbar/Navbar.css';
+@import './About.css';
 
 body {
-  color: #a4aca4;
+  color: #c2c5d1;
   font-family: 'M PLUS Rounded 1c', sans-serif;
   font-size: .2rem;
+}
+
+span {
+  color: #037FFF;
 }
 
 /* .App {
