@@ -1,4 +1,6 @@
 import React from "react";
+import FontAwesomeIcon from "@fortawesome/react-fontawesome";
+import { faFacebook } from "@fortawesome/free-brands-svg-icons";
 
 function Homepage() {
     return (
@@ -11,7 +13,9 @@ function Homepage() {
                 <p>
                     Et sit et culpa proident minim ullamco eu et non duis. Adipisicing nostrud fugiat nisi duis ut elit tempor aliquip amet fugiat minim mollit excepteur Lorem. Irure nostrud sit aute aute deserunt id ullamco sint labore aute sint occaecat sit. Do sunt aute occaecat eu ullamco ut exercitation dolor quis cillum ex nisi.
                 </p>
-                <div className="icons"></div>
+                <div className="icons">
+                    < FontAwesomeIcon icon={faFacebook} />
+                </div>
             </header>
         </div>
     )
