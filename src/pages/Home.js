@@ -1,8 +1,8 @@
 import React from "react";
-import FontAwesomeIcon from "@fortawesome/react-fontawesome";
+import FontAwesomeIcon from "react-fontawesome";
 import { faFacebook } from "@fortawesome/free-brands-svg-icons";
 
-function Homepage() {
+function Home() {
     return (
         <div className="HomePage">
             <header className="hero">
@@ -21,4 +21,4 @@ function Homepage() {
     )
 }
 
-export default Homepage;
+export default Home;

@@ -6,7 +6,11 @@ import "./layout.css";
 import "./typography.css"
 import NavBar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
-import Homepage from "./pages/Home"
+import About from "./pages/About";
+import { Switch, Route } from 'react-router-dom'
+import Portfolio from "./pages/Portfolio";
+import Resume from "./pages/Resume";
+import Contact from "./pages/Contact";
 
 function App() {
   return (
@@ -16,7 +20,23 @@ function App() {
       </div>
       <div className="main-content">
         <div className="content">
-          <Home />
+          <Switch>
+            <Route path="/" exact>
+              <Home />
+            </Route>
+            <Route path="/about" exact>
+              <About />
+            </Route>
+            <Route path="/portfolio" exact>
+              <Portfolio />
+            </Route>
+            <Route path="/resume" exact>
+              <Resume />
+            </Route>
+            <Route path="/contact" exact>
+              <Contact />
+            </Route>
+          </Switch>
         </div>
       </div>
     </div>
