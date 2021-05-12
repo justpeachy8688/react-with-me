@@ -1,5 +1,5 @@
 import React from 'react'
-import about from "../../img/CHS-img.jpeg";
+import about from "../../img/placeholder.png";
 
 function ImageSection() {
     return (

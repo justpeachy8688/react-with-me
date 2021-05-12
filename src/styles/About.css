@@ -1,7 +1,7 @@
 .ImageSection {
     display: flex;
     margin-top: 4rem;
-    height: 70vh;
+    height: 30vh;
     margin-bottom: 4rem;
 }
 
@@ -69,4 +69,11 @@ h4 span {
 
 .btn:hover::after {
     width: 100%;
+}
+
+.skills-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 4rem;
+    row-gap: 3rem;
 }
