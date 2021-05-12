@@ -7,7 +7,6 @@ import NavBar from "./components/Navbar/Navbar";
 import About from "./pages/About";
 import { Switch, Route } from 'react-router-dom'
 import Portfolio from "./pages/Portfolio";
-import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
 function App() {
@@ -27,9 +26,6 @@ function App() {
             </Route>
             <Route path="/portfolio" exact>
               <Portfolio />
-            </Route>
-            <Route path="/resume" exact>
-              <Resume />
             </Route>
             <Route path="/contact" exact>
               <Contact />

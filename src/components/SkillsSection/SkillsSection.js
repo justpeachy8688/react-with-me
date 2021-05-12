@@ -1,5 +1,4 @@
 import React from 'react'
-import about from "../../pages/About"
 
 function Skills({ skill, progress, width }) {
     return (

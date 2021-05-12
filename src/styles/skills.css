@@ -1,8 +1,6 @@
 .Skills {}
 
 .skills-container {
-    margin: 4rem 0;
-    display: grid;
 }
 
 .skill-bar {
@@ -36,7 +34,6 @@
 }
 
 .inner-progress {
-    content: "";
     background-color: #037FFF;
     position: absolute;
     height: 100%;
@@ -44,10 +41,10 @@
     left: 0;
 }
 
-.skillsContainer {
+/* .skillsContainer {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 4rem;
     row-gap: 3rem;
     margin: 4rem 0;
-}
+} */

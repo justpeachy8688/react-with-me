@@ -1,7 +1,7 @@
 .ImageSection {
     display: flex;
     margin-top: 4rem;
-    height: 30vh;
+    /* height: 30vh; */
     margin-bottom: 4rem;
 }
 
@@ -9,6 +9,10 @@ h4 {
     color: #c2c5d1;
     font-size: 2rem;
     ;
+}
+
+.About {
+    display: grid;
 }
 
 h4 span {
@@ -26,8 +30,15 @@ h4 span {
 
 .img {
     width: 100%;
-    height: 30vh;
+    height: 50vh;
     /* height: 50vh; */
+    
+}
+
+.img img {
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
 }
 
 .about-details {
@@ -71,9 +82,20 @@ h4 span {
     width: 100%;
 }
 
-.skills-container {
+/* .skills-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 4rem;
     row-gap: 3rem;
+} */
+
+.skillsContainer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 4rem;
+    row-gap: 3rem;
+    margin: 4rem 0;
+    /* @media screen and (max-width: 1100px) {
+        grid-template-columns: repeat(1, 1fr);
+    } */
 }
