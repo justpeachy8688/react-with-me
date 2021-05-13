@@ -6,6 +6,7 @@
 @import '../components/Title/Title.css';
 @import './Services.css';
 @import './Contact.css';
+@import './Portfolio.css';
 body::-webkit-scrollbar {
   width: 8px;
 }
