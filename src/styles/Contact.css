@@ -1,6 +1,9 @@
 .ContactItem {
     width: 100%;
-    margin: 1rem 0;
+}
+
+.ContactItem:not(:last-child) {
+    margin-bottom: 1rem;
 }
 
 .contact {
@@ -11,7 +14,9 @@
 }
 
 .ContactPage {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 6rem;
 }
 
 .ContactPage .contact-sect {
@@ -38,7 +43,7 @@ h6 {
 .map-sect {
     padding: 1rem;
     background-color: #191D2B;
-    width: 90%;
+    width: 97%;
 }
 
 iframe {
@@ -47,5 +52,11 @@ iframe {
 }
 
 .contact-sect {
-    margin-left: 2rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.title {
+    margin-bottom: 5rem;
 }
