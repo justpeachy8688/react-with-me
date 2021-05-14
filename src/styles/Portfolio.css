@@ -51,3 +51,7 @@
     color: #037FFF;
     cursor: pointer;
 }
+
+a {
+    text-decoration: none !important;
+}

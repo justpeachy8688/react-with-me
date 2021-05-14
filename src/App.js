@@ -1,7 +1,7 @@
 import Home from "./pages/Home";
 import "./styles/App.css";
-import "./styles/layout.css";
-import "./styles/typography.css";
+// import "./styles/layout.css";
+// import "./styles/typography.css";
 import NavBar from "./components/Navbar/Navbar";
 // import Footer from "./components/Footer/Footer";
 import About from "./pages/About";
