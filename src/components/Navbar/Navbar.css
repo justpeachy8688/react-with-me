@@ -20,8 +20,10 @@ img {
 
 .footer {
     color: #c2c5d1;
+    font-weight: bold;
     background-color: #191d2b;
     font-family: 'M PLUS Rounded 1c', sans-serif;
+    text-align: center;
 }
 
 .nav {

@@ -3,7 +3,7 @@ import "./styles/App.css";
 // import "./styles/layout.css";
 // import "./styles/typography.css";
 import NavBar from "./components/Navbar/Navbar";
-// import Footer from "./components/Footer/Footer";
+import Footer from "./components/Footer/Footer";
 import About from "./pages/About";
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import Portfolio from "./pages/Portfolio";
@@ -15,6 +15,7 @@ function App() {
     <div className="App">
       <div className="sidebar">
         <NavBar />
+        <Footer />
       </div>
       <div className="main-content">
         <div className="content">
