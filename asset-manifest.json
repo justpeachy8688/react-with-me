@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-with-me/static/css/main.fb85f2ba.chunk.css",
-    "main.js": "/react-with-me/static/js/main.1be16dac.chunk.js",
-    "main.js.map": "/react-with-me/static/js/main.1be16dac.chunk.js.map",
+    "main.css": "/react-with-me/static/css/main.62bd92c9.chunk.css",
+    "main.js": "/react-with-me/static/js/main.9608dc03.chunk.js",
+    "main.js.map": "/react-with-me/static/js/main.9608dc03.chunk.js.map",
     "runtime-main.js": "/react-with-me/static/js/runtime-main.52e4f318.js",
     "runtime-main.js.map": "/react-with-me/static/js/runtime-main.52e4f318.js.map",
     "static/css/2.800be05e.chunk.css": "/react-with-me/static/css/2.800be05e.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.cc01fdeb.chunk.js.map": "/react-with-me/static/js/2.cc01fdeb.chunk.js.map",
     "index.html": "/react-with-me/index.html",
     "static/css/2.800be05e.chunk.css.map": "/react-with-me/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.fb85f2ba.chunk.css.map": "/react-with-me/static/css/main.fb85f2ba.chunk.css.map",
+    "static/css/main.62bd92c9.chunk.css.map": "/react-with-me/static/css/main.62bd92c9.chunk.css.map",
     "static/js/2.cc01fdeb.chunk.js.LICENSE.txt": "/react-with-me/static/js/2.cc01fdeb.chunk.js.LICENSE.txt",
     "static/media/Envision.95c7b70d.png": "/react-with-me/static/media/Envision.95c7b70d.png",
     "static/media/LetsVenture.f629ca6d.png": "/react-with-me/static/media/LetsVenture.f629ca6d.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.52e4f318.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.cc01fdeb.chunk.js",
-    "static/css/main.fb85f2ba.chunk.css",
-    "static/js/main.1be16dac.chunk.js"
+    "static/css/main.62bd92c9.chunk.css",
+    "static/js/main.9608dc03.chunk.js"
   ]
 }
