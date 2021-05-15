@@ -5,9 +5,10 @@ import "./styles/App.css";
 import NavBar from "./components/Navbar/Navbar";
 // import Footer from "./components/Footer/Footer";
 import About from "./pages/About";
-import { Switch, Route } from 'react-router-dom'
+import { BrowserRouter, Switch, Route } from 'react-router-dom'
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
+
 
 function App() {
   return (
@@ -17,23 +18,17 @@ function App() {
       </div>
       <div className="main-content">
         <div className="content">
+
           <Switch>
-            <Route path="/" exact>
-              <Home />
-            </Route>
-            <Route path="/about" exact>
-              <About />
-            </Route>
-            <Route path="/portfolio" exact>
-              <Portfolio />
-            </Route>
-            <Route path="/contact" exact>
-              <Contact />
-            </Route>
+            <Route exact path="/" component={Home} />
+            <Route path="/about" component={About} />
+            <Route path="/portfolio" component={Portfolio} />
+            <Route path="/contact" component={Contact} />
           </Switch>
+
         </div>
       </div>
-    </div>
+    </div >
   )
 }
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import about from "../../img/blackNwhite.png";
+import about from "../../img/placeholder.png";
 
 function ImageSection() {
     return (

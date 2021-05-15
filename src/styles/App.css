@@ -23,7 +23,7 @@ body::-webkit-scrollbar-track {
 body {
   color: #c2c5d1;
   font-family: 'M PLUS Rounded 1c', sans-serif;
-  font-size: .2rem;
+  font-size: 1rem !important;
 }
 
 span {

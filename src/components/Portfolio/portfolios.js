@@ -1,6 +1,4 @@
-import RandomPasswordGenerator from "../../img/PortfolioImages/RandomPassword.png";
 import WatchNextPic from "../../img/PortfolioImages/WatchNextPic.png";
-import EmployeeDirectory from "../../img/PortfolioImages/EmpDirectory.png";
 import WeatherDashboard from "../../img/PortfolioImages/Weather.png";
 import Envision from "../../img/PortfolioImages/Envision.png";
 import LetsVenture from "../../img/PortfolioImages/LetsVenture.png";
@@ -18,7 +16,7 @@ const portfolios = [
         title: "WatchNext"
     },
     {
-        id: 1,
+        id: 2,
         category: "",
         icon1: "",
         icon2: "",
@@ -26,7 +24,7 @@ const portfolios = [
         title: "LetsVenture"
     },
     {
-        id: 1,
+        id: 3,
         category: "",
         icon1: "https://justpeachy8688.github.io/weather-dashboard/",
         icon2: "",
@@ -34,7 +32,7 @@ const portfolios = [
         title: "Weather Dashboard"
     },
     {
-        id: 1,
+        id: 4,
         category: "",
         icon1: "",
         icon2: "",
@@ -42,7 +40,7 @@ const portfolios = [
         title: "Envision"
     },
     {
-        id: 1,
+        id: 5,
         category: "",
         icon1: "",
         icon2: "",
@@ -50,7 +48,7 @@ const portfolios = [
         title: "A Work Day Scheduler"
     },
     {
-        id: 1,
+        id: 6,
         category: "",
         icon1: "",
         icon2: "",
