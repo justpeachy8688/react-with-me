@@ -24,7 +24,8 @@ function ImageSection() {
                         <p>: Anchorage, Alaskas</p>
                     </div>
                 </div>
-                <button className="btn">Download Resume</button>
+                <a href="https://drive.google.com/file/d/1gmbP161AopO0UWNKukW6yvCiXTRycrUf/view?usp=sharing" className="resume-button">DOWNLOAD RESUME HERE!</a>
+                {/* <button href="https://drive.google.com/file/d/1gmbP161AopO0UWNKukW6yvCiXTRycrUf/view?usp=sharing" className="btn">Download Resume</button> */}
             </div>
         </div>
 
