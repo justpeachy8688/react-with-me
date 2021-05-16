@@ -10,7 +10,13 @@ function ImageSection() {
             <div className="about-info">
                 <h4>I am <span>Taylor</span></h4>
                 <p className="about-text">
-                    Veniam nostrud officia commodo incididunt anim consequat enim et duis mollit aliqua. Culpa tempor elit ad tempor dolore id. Officia est ex dolor dolor do ea cupidatat non aute quis sunt ut elit qui.
+                    I am a student at the University of Washington studying full stack web development and
+                    design. I currently live in Anchorage, Alaska.
+                    As I've grown as a developer, I have worked alongside many talented developers and designers who have
+                    raised my standards for what's expected of any web application.
+                    Through these experiences, I've had the opportunity to create memorable products that are not only
+                    enjoyable to use but
+                    are written in code that's maintainable and easy to understand.
                     </p>
                 <div className="about-details">
                     <div className="left-section">
