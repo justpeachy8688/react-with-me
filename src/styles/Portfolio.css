@@ -19,7 +19,7 @@
     left: 15px;
     height: calc(100% -30px);
     width: calc(100% - 30px);
-    background-color: red;
+    background-color: #037FFF;
     transform-origin: left;
     transform: scale(0);
     transition: all .4s ease-in-out;
