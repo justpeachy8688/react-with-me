@@ -10,7 +10,7 @@ const portfolios = [
     {
         id: 1,
         category: "",
-        icon1: "https://charvey0.github.io/WatchNext/",
+        link: "https://charvey0.github.io/WatchNext/",
         icon2: "",
         image: WatchNextPic,
         title: "WatchNext"
@@ -18,7 +18,7 @@ const portfolios = [
     {
         id: 2,
         category: "",
-        icon1: "",
+        link: "",
         icon2: "",
         image: LetsVenture,
         title: "LetsVenture"
@@ -26,7 +26,7 @@ const portfolios = [
     {
         id: 3,
         category: "",
-        icon1: "https://justpeachy8688.github.io/weather-dashboard/",
+        link: "https://justpeachy8688.github.io/weather-dashboard/",
         icon2: "",
         image: WeatherDashboard,
         title: "Weather Dashboard"
@@ -34,7 +34,7 @@ const portfolios = [
     {
         id: 4,
         category: "",
-        icon1: "",
+        link: "",
         icon2: "",
         image: Envision,
         title: "Envision"
@@ -42,7 +42,7 @@ const portfolios = [
     {
         id: 5,
         category: "",
-        icon1: "",
+        link: "",
         icon2: "",
         image: workDayScheduler,
         title: "A Work Day Scheduler"
@@ -50,7 +50,7 @@ const portfolios = [
     {
         id: 6,
         category: "",
-        icon1: "",
+        link: "",
         icon2: "",
         image: TeamMate,
         title: "TeamMate"
