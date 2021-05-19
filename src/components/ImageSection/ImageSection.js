@@ -8,7 +8,7 @@ function ImageSection() {
                 <img className="about-image" src={about} alt="" />
             </div>
             <div className="about-info">
-                <h4>I am <span>Taylor</span></h4>
+                <h4><span>Taylor Sanders</span></h4>
                 <p className="about-text">
                     I am a student at the University of Washington studying full stack web development and
                     design. I currently live in Anchorage, Alaska.
@@ -20,14 +20,14 @@ function ImageSection() {
                     </p>
                 <div className="about-details">
                     <div className="left-section">
-                        <p>Full Name </p>
-                        <p>Age </p>
-                        <p>Location </p>
+                        <p>Full Name :</p>
+                        <p>Age :</p>
+                        <p>Location :</p>
                     </div>
                     <div className="right-section">
-                        <p>: Taylor Sanders</p>
-                        <p>: 27</p>
-                        <p>: Anchorage, Alaskas</p>
+                        <p> Taylor Sanders</p>
+                        <p> 27</p>
+                        <p> Anchorage, Alaskas</p>
                     </div>
                 </div>
                 <a href="https://drive.google.com/file/d/1gmbP161AopO0UWNKukW6yvCiXTRycrUf/view?usp=sharing" className="resume-button">DOWNLOAD RESUME HERE!</a>
