@@ -25,18 +25,18 @@ function ImageSection() {
                             enjoyable to use but
                             are written in code that's maintainable and easy to understand.
                     </p>
-                        <div className="about-details">
+                        {/* <div className="about-details">
                             <div className="left-section">
                                 {/* <p>Full Name :</p>
                                 <p>Age :</p> */}
-                                <p>Location :</p>
-                            </div>
-                            <div className="right-section">
-                                {/* <p> Taylor Sanders</p>
+                        {/* <p>Location :</p> */}
+                        {/* </div> */}
+                        {/* <div className="right-section"> */}
+                        {/* <p> Taylor Sanders</p>
                                 <p> 27</p> */}
-                                <p> Anchorage, Alaska</p>
-                            </div>
-                        </div>
+                        {/* <p> Anchorage, Alaska</p> */}
+                        {/* </div> */}
+                        {/* </div>  */}
                         <Button href="https://drive.google.com/file/d/1Dg48K3UOy_t2uT2AVdF--mXRYVkiO-7h/view?usp=sharing" className="resume-button">Download Resume</Button>
                         {/* <button href="https://drive.google.com/file/d/1gmbP161AopO0UWNKukW6yvCiXTRycrUf/view?usp=sharing" className="btn">Download Resume</button> */}
                     </div>
