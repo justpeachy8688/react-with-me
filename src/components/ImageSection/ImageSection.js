@@ -1,5 +1,6 @@
 import React from 'react'
-import about from "../../img/placeholder.png";
+import about from "../../img/paris-img.jpg";
+import Button from "react-bootstrap/Button";
 
 function ImageSection() {
     return (
@@ -30,7 +31,7 @@ function ImageSection() {
                         <p> Anchorage, Alaskas</p>
                     </div>
                 </div>
-                <a href="https://drive.google.com/file/d/1gmbP161AopO0UWNKukW6yvCiXTRycrUf/view?usp=sharing" className="resume-button">DOWNLOAD RESUME HERE!</a>
+                <Button href="https://drive.google.com/file/d/1gmbP161AopO0UWNKukW6yvCiXTRycrUf/view?usp=sharing" className="resume-button">Download Resume</Button>
                 {/* <button href="https://drive.google.com/file/d/1gmbP161AopO0UWNKukW6yvCiXTRycrUf/view?usp=sharing" className="btn">Download Resume</button> */}
             </div>
         </div>
