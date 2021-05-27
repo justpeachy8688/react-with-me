@@ -16,9 +16,9 @@ function MenuItems({ menuItem }) {
                             </ul>
                         </div>
                         <h5>
-                            <a href="https://github.com/justpeachy8688">{item.title}</a>
+                            <a href={item.link}>{item.title}</a>
                         </h5>
-                        <p>Placeholder Paragraph</p>
+                        <p>{item.description}</p>
                     </div>
                 })
             }

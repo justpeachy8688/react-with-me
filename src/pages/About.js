@@ -19,14 +19,17 @@ function About() {
                 <SkillsSection skill={'Express'} progress={'60%'} width={'60%'} />
                 <SkillsSection skill={'UI / UX Design'} progress={'80%'} width={'80%'} />
             </div>
-
+            <br></br>
             <Title title={'Services'} span={'Services'} />
             <div className="services-container">
-                <ServiceSection image={design} title={'Responsive Web Design / Development'} text={'Lorem ipsum khjbf fh tre qawsd csda zxc df asd a adfsa  yhuk cvb.'}
+                <ServiceSection image={design} title={'Responsive Web Design / Development'}
+                // text={'Lorem ipsum khjbf fh tre qawsd csda zxc df asd a adfsa  yhuk cvb.'}
                 />
-                <ServiceSection image={design} title={'Mobile App Development'} text={'Lorem ipsum khjbf fh tre qawsd csda zxc df asd a adfsa  yhuk cvb.'}
+                <ServiceSection image={design} title={'Mobile App Development'}
+                // text={'Lorem ipsum khjbf fh tre qawsd csda zxc df asd a adfsa  yhuk cvb.'}
                 />
-                <ServiceSection image={design} title={'Full Stack E-commerce Development'} text={'Lorem ipsum khjbf fh tre qawsd csda zxc df asd a adfsa  yhuk cvb.'}
+                <ServiceSection image={design} title={'Full Stack E-commerce Development'}
+                // text={'Lorem ipsum khjbf fh tre qawsd csda zxc df asd a adfsa  yhuk cvb.'}
                 />
             </div>
         </div>
