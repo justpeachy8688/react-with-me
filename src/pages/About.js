@@ -12,11 +12,11 @@ function About() {
             <ImageSection />
             <div className="skillsContainer">
                 <Title title={'Skills'} span={'Skills'} />
-                <SkillsSection skill={'Javascript'} progress={'60%'} width={'60%'} />
-                <SkillsSection skill={'React Js'} progress={'80%'} width={'80%'} />
-                <SkillsSection skill={'Node Js'} progress={'60%'} width={'60%'} />
-                <SkillsSection skill={'HTML'} progress={'80%'} width={'80%'} />
-                <SkillsSection skill={'Express'} progress={'60%'} width={'60%'} />
+                <SkillsSection skill={'Javascript'} progress={'80%'} width={'80%'} />
+                <SkillsSection skill={'React Js'} progress={'90%'} width={'90%'} />
+                <SkillsSection skill={'Node Js'} progress={'90%'} width={'90%'} />
+                <SkillsSection skill={'HTML'} progress={'90%'} width={'90%'} />
+                <SkillsSection skill={'Express'} progress={'80%'} width={'80%'} />
                 <SkillsSection skill={'UI / UX Design'} progress={'80%'} width={'80%'} />
             </div>
             <br></br>
