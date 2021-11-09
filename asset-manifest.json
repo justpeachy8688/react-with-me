@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-with-me/static/css/main.8d0e6c37.chunk.css",
-    "main.js": "/react-with-me/static/js/main.836614bf.chunk.js",
-    "main.js.map": "/react-with-me/static/js/main.836614bf.chunk.js.map",
+    "main.js": "/react-with-me/static/js/main.d2812944.chunk.js",
+    "main.js.map": "/react-with-me/static/js/main.d2812944.chunk.js.map",
     "runtime-main.js": "/react-with-me/static/js/runtime-main.52e4f318.js",
     "runtime-main.js.map": "/react-with-me/static/js/runtime-main.52e4f318.js.map",
     "static/css/2.800be05e.chunk.css": "/react-with-me/static/css/2.800be05e.chunk.css",
@@ -12,16 +12,16 @@
     "static/css/2.800be05e.chunk.css.map": "/react-with-me/static/css/2.800be05e.chunk.css.map",
     "static/css/main.8d0e6c37.chunk.css.map": "/react-with-me/static/css/main.8d0e6c37.chunk.css.map",
     "static/js/2.e915f5aa.chunk.js.LICENSE.txt": "/react-with-me/static/js/2.e915f5aa.chunk.js.LICENSE.txt",
-    "static/media/Envision.95c7b70d.png": "/react-with-me/static/media/Envision.95c7b70d.png",
     "static/media/LetsVenture.f629ca6d.png": "/react-with-me/static/media/LetsVenture.f629ca6d.png",
     "static/media/WatchNextPic.6fee83f7.png": "/react-with-me/static/media/WatchNextPic.6fee83f7.png",
-    "static/media/Weather.bb5da8b2.png": "/react-with-me/static/media/Weather.bb5da8b2.png",
+    "static/media/Weather.6f0efb4d.png": "/react-with-me/static/media/Weather.6f0efb4d.png",
     "static/media/design2.8ecb3043.svg": "/react-with-me/static/media/design2.8ecb3043.svg",
     "static/media/email.a60657eb.svg": "/react-with-me/static/media/email.a60657eb.svg",
     "static/media/location.5cd6776e.svg": "/react-with-me/static/media/location.5cd6776e.svg",
+    "static/media/painting.ad1a271a.png": "/react-with-me/static/media/painting.ad1a271a.png",
     "static/media/paris-img.ee028c2f.jpg": "/react-with-me/static/media/paris-img.ee028c2f.jpg",
     "static/media/phone.ef86e22a.svg": "/react-with-me/static/media/phone.ef86e22a.svg",
-    "static/media/profilepic.c046ccac.jpg": "/react-with-me/static/media/profilepic.c046ccac.jpg",
+    "static/media/picture.d2223d22.jpg": "/react-with-me/static/media/picture.d2223d22.jpg",
     "static/media/scheduler.4681eb0a.png": "/react-with-me/static/media/scheduler.4681eb0a.png",
     "static/media/team-mate.d86e6a33.png": "/react-with-me/static/media/team-mate.d86e6a33.png"
   },
@@ -30,6 +30,6 @@
     "static/css/2.800be05e.chunk.css",
     "static/js/2.e915f5aa.chunk.js",
     "static/css/main.8d0e6c37.chunk.css",
-    "static/js/main.836614bf.chunk.js"
+    "static/js/main.d2812944.chunk.js"
   ]
 }
